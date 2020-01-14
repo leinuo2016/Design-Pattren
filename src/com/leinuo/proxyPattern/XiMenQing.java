@@ -4,6 +4,8 @@ package com.leinuo.proxyPattern;
  * Create by leinuo on 20-1-9 下午5:38
  * <p>
  * qq:1321404703 https://github.com/leinuo2016
+ *
+ * 戏说代理模式
  */
 public class XiMenQing {
 

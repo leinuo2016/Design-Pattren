@@ -4,6 +4,8 @@ package com.leinuo.multitionPattern;
  * Create by leinuo on 20-1-14 上午10:00
  * <p>
  * qq:1321404703 https://github.com/leinuo2016
+ *
+ * 多例模式
  */
 public class Minister {
     public static void main(String[] args) {

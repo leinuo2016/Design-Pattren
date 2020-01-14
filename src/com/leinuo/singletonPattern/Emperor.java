@@ -7,7 +7,6 @@ import java.util.Objects;
  * <p>
  * qq:1321404703 https://github.com/leinuo2016
  *
- * 单例模式
  */
 public class Emperor {
     private  static Emperor emperor = null;

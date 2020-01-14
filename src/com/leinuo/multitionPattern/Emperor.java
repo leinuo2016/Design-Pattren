@@ -8,7 +8,6 @@ import java.util.Random;
  * <p>
  * qq:1321404703 https://github.com/leinuo2016
  *
- * 多例模式
  */
 public class Emperor {
     private static final int maxNumOfEmperor = 2;
