@@ -13,6 +13,10 @@ public class WangPo implements KindWomen{
         this.kindWomen = new PanJinLian();
     }
 
+    public WangPo(KindWomen kindWomen){
+        this.kindWomen=kindWomen;
+    }
+
     @Override
     public void makeEyesWithMan() {
         this.kindWomen.makeEyesWithMan();

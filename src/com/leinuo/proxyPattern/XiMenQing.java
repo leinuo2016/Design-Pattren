@@ -11,5 +11,10 @@ public class XiMenQing {
         WangPo wangPo = new WangPo();
         wangPo.happyWithMan();
         wangPo.makeEyesWithMan();
+
+        Jiashi jiashi = new Jiashi();
+        WangPo wangPo1 = new WangPo(jiashi);
+        wangPo1.makeEyesWithMan();
+        wangPo1.happyWithMan();
     }
 }
