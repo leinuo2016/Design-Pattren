@@ -23,7 +23,7 @@ public class Emperor {
     }
 
     public static void emperorInfo(){
-        System.out.println("emperor..");
+        System.out.println("emperor..。");
     }
 
 }
