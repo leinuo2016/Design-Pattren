@@ -11,6 +11,8 @@ public class AddRequirementCommand extends Command {
         //找到需求组
         super.rg.find();//增加一份需求
         super.rg.add();
+        super.pg.add();
+        super.cg.add();
         //给出计划
         super.rg.plan();
     }
