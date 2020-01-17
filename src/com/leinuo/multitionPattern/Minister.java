@@ -12,12 +12,12 @@ public class Minister {
         int ministerNum=10;
         for(int i=0;i<ministerNum;i++){
             Emperor emperor = Emperor.getInstance();
-            System.out.print("大臣"+(i+1)+"号，参拜");
+            System.out.print("大臣"+(i+1)+"号，参拜！");
             emperor.emperorInfo();
         }
         for(int i=0;i<ministerNum;i++){
             Emperor emperor = Emperor.getInstance(5);
-            System.out.print("大臣"+(i+1)+"号，参拜");
+            System.out.print("大臣"+(i+1)+"号，参拜！");
             emperor.emperorInfo(i);
         }
     }
