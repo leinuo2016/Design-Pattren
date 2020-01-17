@@ -9,12 +9,12 @@ public class Jiashi implements KindWomen {
 
     @Override
     public void makeEyesWithMan() {
-        System.out.println("Jiashi makeEyesWithMan");
+        System.out.println("Jiashi makeEyesWithMan！");
 
     }
 
     @Override
     public void happyWithMan() {
-        System.out.println("Jiashi happyWithMan");
+        System.out.println("Jiashi happyWithMan！");
     }
 }
