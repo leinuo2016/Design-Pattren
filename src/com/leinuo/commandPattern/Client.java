@@ -16,7 +16,7 @@ public class Client {
         Invoker invoker = new Invoker();
 
         //客户要求增加一项需求
-        System.out.println("-------------客户要求增加一项需求-----------------");
+        System.out.println("---客户要求增加一项需求----");
         //客户给我们下命令来
         Command command = new AddRequirementCommand();
 
