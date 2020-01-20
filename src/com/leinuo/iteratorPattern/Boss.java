@@ -23,8 +23,7 @@ public class Boss {
         //遍历一下ArrayList，把所有的数据都取出
         for(IProject project:projectList){
             System.out.println(project.getProjectInfo());
-        }
-*/
+        }*/
         IProject project = new Project();
         project.add("星球大战项目",10,100000);
         //增加扭转时空项目
