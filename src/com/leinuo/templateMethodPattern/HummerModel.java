@@ -24,7 +24,7 @@ public abstract class HummerModel {
         if(this.isAlarm()){
             this.alarm();
         }
-        //到达目的地就停车
+        //到达目的地停车
         this.stop();
     };
 
